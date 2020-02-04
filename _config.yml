@@ -88,7 +88,7 @@ author:
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SQL | PYTHON | MACHINE LEARNING"
   location         : "Delhi, India"
-  email            :"datasciyash@gmail.com"
+  email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
