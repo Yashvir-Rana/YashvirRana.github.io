@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
+title: "Churn Prediction"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [Case Study for a Retail Bank]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
